@@ -9,6 +9,7 @@ Selected interesting reads.
 ## Science
 - **Dopamine Nation** – Anna Lembke *[it]* +
 - **The Black Swan** – Taleb *[it]* +
+- **Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets** – Taleb *[it]*
 - **Thinking, Fast and Slow** – Daniel Kahneman *[en]*
 - **Code: The Hidden Language of Computer Hardware and Software** – Charles Petzold *[en]*
 - **The Man Who Mistook His Wife for a Hat** – Oliver Sacks *[it]*
