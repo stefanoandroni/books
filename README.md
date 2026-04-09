@@ -8,6 +8,7 @@ Selected interesting reads.
 
 ## Science
 - **Dopamine Nation** – Anna Lembke *[it]* +
+- **The Hacking of the American Mind: The Science Behind the Corporate Takeover of Our Bodies and Brains** –  Robert H. Lustig  *[en]*
 - **The Black Swan** – Taleb *[it]* +
 - **Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets** – Taleb *[it]*
 - **Thinking, Fast and Slow** – Daniel Kahneman *[en]* +
