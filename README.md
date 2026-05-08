@@ -1,10 +1,11 @@
 # Books
 Selected interesting reads.
 
-## Personal Finance
+## Personal Finance & Business
 - **The Psychology of Money** – Morgan Housel *[en]* +
 - **A Random Walk Down Wall Street** – Burton Malkiel *[en]* +
 - **Investimenti. La guida completa** – Marco D'Epifanio *[it]*
+- **The Personal MBA** – Josh Kaufman *[it]* +
 
 ## Science
 - **Dopamine Nation** – Anna Lembke *[it]* +
