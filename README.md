@@ -4,15 +4,16 @@ Selected interesting reads.
 ## Personal Finance & Business
 - **The Psychology of Money** – Morgan Housel *[en]* +
 - **A Random Walk Down Wall Street** – Burton Malkiel *[en]* +
-- **Investimenti. La guida completa** – Marco D'Epifanio *[it]*
 - **The Personal MBA** – Josh Kaufman *[it]* +
+- **Investimenti. La guida completa** – Marco D'Epifanio *[it]*
 
 ## Science
-- **Dopamine Nation** – Anna Lembke *[it]* +
-- **The Hacking of the American Mind: The Science Behind the Corporate Takeover of Our Bodies and Brains** –  Robert H. Lustig  *[en]*
 - **The Black Swan** – Taleb *[it]* +
-- **Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets** – Taleb *[it]*
+- **Sapiens: A Brief History of Humankind** – Yuval Noah Harari *[it]* +
+- **Dopamine Nation** – Anna Lembke *[it]* +
 - **Thinking, Fast and Slow** – Daniel Kahneman *[en]* +
+- **The Hacking of the American Mind: The Science Behind the Corporate Takeover of Our Bodies and Brains** –  Robert H. Lustig  *[en]*
+- **Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets** – Taleb *[it]*
 - **Code: The Hidden Language of Computer Hardware and Software** – Charles Petzold *[en]*
 - **The Man Who Mistook His Wife for a Hat** – Oliver Sacks *[it]*
 
