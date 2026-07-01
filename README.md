@@ -15,6 +15,7 @@ Selected interesting reads.
 - **The Hacking of the American Mind: The Science Behind the Corporate Takeover of Our Bodies and Brains** –  Robert H. Lustig  *[en]*
 - **Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets** – Taleb *[it]*
 - **Code: The Hidden Language of Computer Hardware and Software** – Charles Petzold *[en]*
+- **Algorithms to Live By: The Computer Science of Human Decisions** –  Brian Christian, Tom Griffiths *[it]*
 - **The Man Who Mistook His Wife for a Hat** – Oliver Sacks *[it]*
 
 ## Others
