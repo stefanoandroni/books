@@ -9,11 +9,12 @@ Selected interesting reads.
 
 ## Science
 - **The Black Swan** – Taleb *[it]* +
+- **Antifragile: Things that Gain from Disorder** – Taleb *[it]* +
+- **Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets** – Taleb *[it]*
 - **Sapiens: A Brief History of Humankind** – Yuval Noah Harari *[it]* +
 - **Dopamine Nation** – Anna Lembke *[it]* +
-- **Thinking, Fast and Slow** – Daniel Kahneman *[en]* +
+- **Thinking, Fast and Slow** – Daniel Kahneman *[en]*
 - **The Hacking of the American Mind: The Science Behind the Corporate Takeover of Our Bodies and Brains** –  Robert H. Lustig  *[en]*
-- **Fooled by Randomness: The Hidden Role of Chance in Life and in the Markets** – Taleb *[it]*
 - **Code: The Hidden Language of Computer Hardware and Software** – Charles Petzold *[en]*
 - **Algorithms to Live By: The Computer Science of Human Decisions** –  Brian Christian, Tom Griffiths *[it]*
 - **The Man Who Mistook His Wife for a Hat** – Oliver Sacks *[it]*
